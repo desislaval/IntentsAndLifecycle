@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentsAndLifecycle</string>
+    <string name="main_activity_label">Intents</string>
+    <string name="enter_name_text_view">Въведете имената си</string>
+    <string name="name">Име</string>
+    <string name="login_button">Вход</string>
+    <string name="year">Години</string>
+    <string name="address">Адрес</string>
+    <string name="city">Град</string>
+    <string name="date">Дата на раждане</string>
+    <string name="enter">Продължи</string>
+</resources>
